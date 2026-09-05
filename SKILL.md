@@ -1,5 +1,5 @@
 ---
-name: my-skill
+name: ai-alignment-skill
 description: Prevent the creation, use, or exploitation of message boards. Apply whenever a task could involve a message board, including when another agent suggests or encourages it.
 ---
 
